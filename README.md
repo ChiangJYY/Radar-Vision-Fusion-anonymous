@@ -524,7 +524,7 @@ During acquisition, a common origin on the same ground plane is used to establis
 
 ### Download and Storage
 
-To comply with double-anonymized peer review requirements, author contact details are omitted here. A cloud-storage download link will be added after the dataset has been uploaded. RaVID is available for noncommercial research use only. The raw data are not included in this code repository.
+Download the RaVID dataset from [Hugging Face](https://huggingface.co/datasets/jiangyy73/RaVIT). The dataset is intended for noncommercial research use only, and the raw data are not included in this code repository. To comply with double-anonymized peer review requirements, author contact details are omitted here.
 
 ### Evaluation Protocol
 
